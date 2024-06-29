@@ -1,0 +1,87 @@
+
+.size{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.size img{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.se7-name{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0.01rem;
+    text-align: center;
+    z-index: 1;
+    color: white;
+    opacity: 0;
+    transition: 0.4s;
+}
+
+.se7-name .text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    margin: 0;
+    position: relative;
+    top: 5rem;
+}
+
+.se7-img-ft{
+    left: 25rem;
+    top: 4rem;
+}
+
+.se7-img-sec{
+    top: 15rem;
+    left: 6rem;
+}
+
+.se7-img-thd{
+    left: 25rem;
+    top: 26.5rem;
+}
+.se7-img-fth{
+    left: 44rem;
+    top: 13rem;
+}
+
+.se7-img-fif{
+    left: 65rem;
+    top: 4rem;
+}
+
+.se7-img-six{
+    left: 45rem;
+    top: 30rem;
+}
+
+.se7-img-sev{
+    left: 65rem;
+    top: 23rem;
+}
+
+.se7-rectangle1{
+    width: 100%;
+    min-height:100vh;
+    background-color: #D9D9D9;
+}
+
+.se7-rectangle1 h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    font-weight: 500;
+    position: relative;
+    top: 18rem;
+    left: 25rem; 
+}
